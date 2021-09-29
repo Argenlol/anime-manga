@@ -1,0 +1,67 @@
+{
+    "anime": [
+        {
+            "title": "Naruto ",
+            "image": "https://static.bandainamcoent.eu/high/naruto/naruto-suns-revolution/00-page-setup/nsr_game-thumbnail.jpg",
+            "type": "Expensive",
+            "description": "It is located 40 kilometers from Bishkek. One of the most famous natural areas in the country. From the Kyrgyz language, ala-archa  is translated as  variegated juniper  - this plant is used by the local population to protect their homes from evil spirits.",
+            "id": 1
+        },
+        {
+            "title": "5 Centimetrs Per Second",
+            "image": "https://www.kino-teatr.ru/movie/poster/31382/107289.jpg",
+            "type": "Middle",
+            "description": "What happens when two people love each other but just aren't meant to be together? Takaki Toono and Akari Shinohara are childhood friends, but circumstances beyond their control tear them apart. They promise to stay in contact, and although the progression of time widens the distance between them, the chain of memories remains ever-present.",
+            "id": 2
+        },
+        {
+            "title": "Weathering  with You",
+            "image": "https://mangathrill.com/wp-content/uploads/2019/04/amazeds.jpg",
+            "type": "Middle ",
+            "description": "Weathering with You (Japanese: 天気の子, Hepburn: Tenki no Ko, lit. Child of Weather is a 2019 Japanese animated romantic fantasy film produced by CoMix Wave Films and released by Toho. ... The film was commissioned in 2018, written and directed by Makoto Shinkai.",
+            "id": 3
+        },
+        {
+            "title": "Attack on Titan",
+            "image": "https://img3.hulu.com/user/v3/artwork/9c91ffa3-dc20-48bf-8bc5-692e37c76d88?base_image_bucket_name=image_manager&base_image=747157b1-4581-414a-959f-c4956ebc3349&size=1200x630&format=jpeg",
+            "type": "Expensive ",
+            "description": "The story revolves Eren Yeager, a boy who lives in the town of Shiganshina, located on the outermost of three circular walls protecting humanity from Titans. In the year 845, the wall is breached by two new types of Titans, named the Colossus Titan and the Armored Titan. During the incident, Eren's mother is eaten by a Titan while Eren escapes. He swears revenge on all Titans and enlists in the military along with his childhood friends, Mikasa Ackerman and Armin Arlert. He intends to join the Survey Corps, the expeditionary force that seeks to eradicate the Titans from the walls.",
+            "id": 4
+        },
+        {
+            "title": "Tokyo Revengers",
+            "image": "https://wallpaperaccess.com/full/6174960.png",
+            "type": "Expensive ",
+            "description": "Takemichi Hanagaki's life is at an all-time low. Just when he thought it couldn't get worse, he finds out that Hinata Tachibana, his ex-girlfriend, was murdered by the Tokyo Manji Gang: a group of vicious criminals that has been disturbing society's peace for quite some time.",
+            "id": 5
+        },
+        {
+            "title": "Tokyo Ghoul",
+            "image": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967478187954031Tokyo_Ghoul_RE_Small_hq.jpg",
+            "type": "Middle ",
+            "description": "Tokyo is haunted by ghouls who resemble humans but feast on their flesh. As a ghoul-human hybrid, Ken Kaneki finds himself caught between two worlds.",
+            "id": 6
+        },
+        {
+            "title": "Death Note",
+            "image": "https://fannaruto.clan.su/anime/death-note_poster2.jpg",
+            "type": "Cheap ",
+            "description": "High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be. ",
+            "id": 7
+        },
+        {
+            "title": "The Seven Deadly Sins",
+            "image": "https://citaty.info/files/posters/screenshot_15_5.jpg",
+            "type": "Middle ",
+            "description": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the Seven Deadly Sins, were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones.",
+            "id": 8
+        },
+        {
+            "title": "Demon Slayer",
+            "image": "https://diskomir.ru/upload/iblock/43c/otkrytka-iz-anime-klinok-rassekayushchiy-demonov.jpg",
+            "type": "Cheap ",
+            "description": "The story takes place in Taishō-era Japan. It follows Tanjiro Kamado and his sister Nezuko Kamado as they seek a cure for Nezuko's demon curse. Tanjiro and Nezuko become entangled in the affairs of a secret society, known as the Demon Slayer Corps, that has been waging a secret war against demons for centuries.",
+            "id": 9
+        }
+    ]
+}
