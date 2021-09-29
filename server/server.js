@@ -5,7 +5,7 @@ const cors = require("cors");
 const db = require("./db");
 const swaggerJSDoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
-// const { adminBro, adminRouter } = require("./admin");
+const { adminBro, adminRouter } = require("./admin");
 const formidableMiddleware = require('express-formidable');
 
 
@@ -15,7 +15,7 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 app.use(formidableMiddleware())
-// app.use(adminBro.options.rootPath, adminRouter);
+app.use(adminBro.options.rootPath, adminRouter);
 
 
 const options = {

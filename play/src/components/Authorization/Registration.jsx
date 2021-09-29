@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme) => ({
         height: '100vh',
     },
     image: {
-        backgroundImage: 'url(https://www.advantour.com/img/kyrgyzstan/nature/kyrgyzstan-nature3.jpg)',
+        backgroundImage: 'url(https://animecult.org/uploads/attachment/cover/76171/6357_2_wm.jpg)',
         backgroundRepeat: 'no-repeat',
         backgroundColor:
             theme.palette.type === 'light' ? theme.palette.grey[50] : theme.palette.grey[900],
@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: theme.palette.grey.main,
     },
     form: {
-        width: '100%', // Fix IE 11 issue.
+        width: '100%', 
         marginTop: theme.spacing(1),
     },
     submit: {

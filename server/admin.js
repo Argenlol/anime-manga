@@ -7,7 +7,7 @@ AdminBro.registerAdapter(AdminBroSequelize)
 
 const adminBro = new AdminBro({
     databases: [db],
-    rootPath: '/admin',
+    rootPath: '/adminBro',
 })
 
 const adminRouter = AdminBroExpress.buildRouter(adminBro);
